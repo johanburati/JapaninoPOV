@@ -7,8 +7,7 @@
   MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. 
 */
 
-#include <WProgram.h>
-#include <WConstants.h>
+#include <Arduino.h>
 #include "JapaninoPOV.h"
 
 #define INVALID_PIN			(0xff)
